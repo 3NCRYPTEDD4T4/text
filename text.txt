@@ -1,1 +1,1 @@
-"Buyer"
+b = "Buyer"
